@@ -5,13 +5,11 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/footer";
 import { Toaster } from "@/components/ui/toaster";
 import Providers from "@/components/providers";
+import { constructMetadata } from "@/lib/utils";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
-  title: "Caseome",
-  description: "Caseome Cases",
-};
+export const metadata = constructMetadata();
 
 export default function RootLayout({
   children,
