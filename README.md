@@ -9,6 +9,7 @@ Kinde (Authentication)
 PostgreSQL (using Prisma ORM with Supabase)
 Vercel (deployment)
 
+Credits for All The Images used (for Demo Purposes Only.)
 
 active Site Link: https://case-ome.vercel.app/dashboard
 
