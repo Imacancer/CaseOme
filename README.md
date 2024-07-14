@@ -1,4 +1,4 @@
-This is an Active Custom Phone Case Website Using
+This is an Active Custom Phone Case Website Powered by Stripe,Kinde Authentication
 
 Resources Used:
 
