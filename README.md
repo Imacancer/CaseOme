@@ -2,6 +2,7 @@ This is an Active Custom Phone Case Website Powered by Stripe,Kinde Authenticati
 
 Resources Used:
 
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,typescript,postgresql,vercel)](https://skillicons.dev)
 TypeScript (Next JS)
 UploadThing (Media Cloud Storage)
 Stripe (Checkout Processing)
